@@ -34,6 +34,7 @@
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.extractToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.editEntryToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.editAsLocToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.replaceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.addFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.deleteFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -43,7 +44,6 @@
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new MinecraftUSkinEditor.PictureBoxWithInterpolationMode();
-            this.editAsLocToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -71,40 +71,47 @@
             this.addFileToolStripMenuItem,
             this.deleteFileToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(153, 158);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(137, 136);
             // 
             // extractToolStripMenuItem
             // 
             this.extractToolStripMenuItem.Name = "extractToolStripMenuItem";
-            this.extractToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.extractToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.extractToolStripMenuItem.Text = "Extract File";
             this.extractToolStripMenuItem.Click += new System.EventHandler(this.extractToolStripMenuItem_Click);
             // 
             // editEntryToolStripMenuItem
             // 
             this.editEntryToolStripMenuItem.Name = "editEntryToolStripMenuItem";
-            this.editEntryToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.editEntryToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.editEntryToolStripMenuItem.Text = "Edit Entry";
             this.editEntryToolStripMenuItem.Click += new System.EventHandler(this.editEntryToolStripMenuItem_Click);
+            // 
+            // editAsLocToolStripMenuItem
+            // 
+            this.editAsLocToolStripMenuItem.Name = "editAsLocToolStripMenuItem";
+            this.editAsLocToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
+            this.editAsLocToolStripMenuItem.Text = "Edit as loc";
+            this.editAsLocToolStripMenuItem.Click += new System.EventHandler(this.editAsLocToolStripMenuItem_Click);
             // 
             // replaceToolStripMenuItem
             // 
             this.replaceToolStripMenuItem.Name = "replaceToolStripMenuItem";
-            this.replaceToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.replaceToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.replaceToolStripMenuItem.Text = "Replace File";
             this.replaceToolStripMenuItem.Click += new System.EventHandler(this.replaceToolStripMenuItem_Click);
             // 
             // addFileToolStripMenuItem
             // 
             this.addFileToolStripMenuItem.Name = "addFileToolStripMenuItem";
-            this.addFileToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.addFileToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.addFileToolStripMenuItem.Text = "Add File";
             this.addFileToolStripMenuItem.Click += new System.EventHandler(this.addFileToolStripMenuItem_Click);
             // 
             // deleteFileToolStripMenuItem
             // 
             this.deleteFileToolStripMenuItem.Name = "deleteFileToolStripMenuItem";
-            this.deleteFileToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.deleteFileToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.deleteFileToolStripMenuItem.Text = "Delete File";
             this.deleteFileToolStripMenuItem.Click += new System.EventHandler(this.deleteFileToolStripMenuItem_Click);
             // 
@@ -159,13 +166,6 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // editAsLocToolStripMenuItem
-            // 
-            this.editAsLocToolStripMenuItem.Name = "editAsLocToolStripMenuItem";
-            this.editAsLocToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.editAsLocToolStripMenuItem.Text = "Edit as loc";
-            this.editAsLocToolStripMenuItem.Click += new System.EventHandler(this.editAsLocToolStripMenuItem_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -178,7 +178,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "PCraft - The Politically Correct Minecraft Wii U Editor";
+            this.Text = "TrumpCraft - The Best Minecraft Wii U Wall Editor";
             this.contextMenuStrip1.ResumeLayout(false);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
