@@ -1,7 +1,7 @@
 # NeinCraft
-A really enhanced version of DrJillStein's Minecraft for Wii U editor!
+A very enhanced version of TheKoopaKingdom's Minecraft for Wii U editor!
 
-Modify .PCK archives as you please!
+Modify .PCK archives if you dare!
 
 ### Features:
 * Open and Save .PCK archives
