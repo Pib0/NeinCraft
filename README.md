@@ -1,4 +1,4 @@
-# NeinCraft
+# WhineCraft
 A very enhanced version of TheKoopaKingdom's Minecraft for Wii U editor!
 
 Modify .PCK archives if you dare!
