@@ -1,5 +1,5 @@
-# TrumpCraft
-A Enhanced version of IpwnedU123's Minecraft for Wii U editor! (Oh and it was made by JAM1GARNER)
+# SteinCraft
+An enhanced version of smb123w64gb's Minecraft for Wii U editor!
 
 Modify .PCK archives as you please!(And Build Walls too)
 
@@ -20,4 +20,4 @@ Modify .PCK archives as you please!(And Build Walls too)
 
 ### To compile:
 
-Just download, open the solution in visual studio and hit build a wall.
+Just download, open the solution in visual studio and hit build a party for the people!
