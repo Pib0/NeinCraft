@@ -1,7 +1,7 @@
-# PCraft
-A Politically Correct version of jam1garner's Minecraft for Wii U editor!
+# TrumpCraft
+A Enhanced version of IpwnedU123's Minecraft for Wii U editor! (Oh and it was made by JAM1GARNER)
 
-Modify .PCK archives as you please!
+Modify .PCK archives as you please!(And Build Walls too)
 
 ### Features:
 * Open and Save .PCK archives
@@ -20,4 +20,4 @@ Modify .PCK archives as you please!
 
 ### To compile:
 
-Just download, open the solution in visual studio and hit build.
+Just download, open the solution in visual studio and hit build a wall.
