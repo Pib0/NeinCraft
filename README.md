@@ -1,7 +1,7 @@
-# SteinCraft
-An enhanced version of smb123w64gb's Minecraft for Wii U editor!
+# NeinCraft
+A really enhanced version of DrJillStein's Minecraft for Wii U editor!
 
-Modify .PCK archives as you please!(And Build Walls too)
+Modify .PCK archives as you please!
 
 ### Features:
 * Open and Save .PCK archives
